@@ -17,7 +17,7 @@ Delete these instructions as you replace them with your code.
 
 label = input("Please enter a name/hostname/IP: ")
 value = float(input("Please enter a value: "))
-limit = float(input("Please enter a value: "))
+limit = float(input("Please enter a limit: "))
 
 
 # ================================================================== PROCESS
